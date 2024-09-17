@@ -20,11 +20,11 @@ while attemps < 12345677901:
 
     if username == 'DARK' and password == 'RA':
         print(' \033[0;92mYou Have Successfully Logged in.')
-        os.system('xdg-openhttps://www.facebook.com/MUHAMMAD.RONI.AKONDO')
+        os.system('xdg-openhttps://www.facebook.com/MUHAMMAD.RONI.AKONDO?mibextid=ZbWKwL')
         break
     else:
         print(' Incorrect Pass Please Try Again')
-        os.system('xdg-open https://www.facebook.com/MUHAMMAD.RONI.AKONDO')
+        os.system('xdg-open https://www.facebook.com/MUHAMMAD.RONI.AKONDO?mibextid=ZbWKwL')
         attemps += 1
         continue
 os.system('clear')
