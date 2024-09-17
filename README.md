@@ -21,7 +21,7 @@ pkg install python2
 pip install mechanize
 pkg install git 
 pip install bs4
-git clone [https://github.com/DARK-RA-cyber/SMS-BOOMBER/blob/main/sms.py
+git clone [https://github.com/DARK-RA-cyber/SMS-BOOMBER
 cd SMS-BOOMBER
 python sms.py
 ```
