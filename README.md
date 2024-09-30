@@ -25,7 +25,14 @@ git clone [https://github.com/DARK-RA-cyber/SMS-BOOMBER
 cd SMS-BOOMBER
 python sms.py
 ```
-
+# Tool USER NAME :â¬‡ï¸
+```
+DARK
+```
+# Tool Password:â¬‡ï¸
+```
+RA
+```
 
 
 #### SCREENSHOT: ⬇️
